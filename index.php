@@ -1,7 +1,7 @@
 <?php
 $action = $_SERVER["REQUEST_URI"];
 $country = explode('/',$action);
-$json_data = file_get_contents("Dataset/Assignment Dataset.json");
+$json_data = file_get_contents("Assignment Dataset.json");
 $updated_country = ucwords($_GET["country"]);
 function get_json(){
 	global $json_data;
