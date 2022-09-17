@@ -7,4 +7,4 @@
 <h4>4. To Get Data according to set of attributes use Query: /data?{Attribute Name}[lte OR gte: this is optional]
 <h5 style='color: red'>OR</h5>
 <h4>5. /data?{Attribute Name}[lte OR gte: this is optional]&{Attribute Name}[lte OR gte: this is optional]....</h4>
-<h5 style='color: red'>Note: Data According to Country Can't Be Fetched According to this Rule. Use Query 1 To Get Specific Data According to Country</h5>
+<h5 style='color: red'>Note: Data According to Country Can't Be Fetched with this Rule. Use Query 1 To Get Specific Data According to Country</h5>
