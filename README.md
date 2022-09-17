@@ -1,5 +1,4 @@
-# APIMatic_Accessment
-Inde.php file cotains all the code, which was required for this assessment. 
+# Simple REST API in PHP
 <h2>Queries Examples<h2>
 <h4>1. To Get Data About Specific Country use Query: /data/{Country Name}</h4>
 <h4>2. To Get All Data Uue Query: /data or /data/</h4>
